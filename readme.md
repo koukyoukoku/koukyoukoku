@@ -16,8 +16,8 @@
 <p><b>I Don't Like:</b> Talking Too Much!</p>
 
 ## My Bias 💖
-<img src="https://github.com/koukyoukoku/koukyoukoku/blob/main/753361669_18065803109742651_1317827352611438808_n.jpg?raw=true" width="300"><span>
-<img src="https://github.com/koukyoukoku/koukyoukoku/blob/main/797775629_17970367386149451_1150023861164925217_n.jpg?raw=true" width="355">
+<img alt="Momo Twice" src="https://github.com/koukyoukoku/koukyoukoku/blob/main/753361669_18065803109742651_1317827352611438808_n.jpg?raw=true" width="300"><span>
+<img alt="Ryujin Itzy" src="https://github.com/koukyoukoku/koukyoukoku/blob/main/797775629_17970367386149451_1150023861164925217_n.jpg?raw=true" width="355">
 
 
 ## What I've Used ⌨️
